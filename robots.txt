@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwuqaoga.github.io/TEF/sitemap_index.txt
+Sitemap: https://uwuqaoga.github.io/gip/sitemap_index.txt
+Sitemap: https://uwuqaoga.github.io/hOC/sitemap_index.txt
+Sitemap: https://uwuqaoga.github.io/lOn/sitemap_index.txt
